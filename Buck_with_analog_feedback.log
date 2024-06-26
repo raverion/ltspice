@@ -1,6 +1,6 @@
 LTspice 24.0.12 for Windows
 Circuit: * C:\Users\rejav\Projects\GitHub\ltspice\Buck_with_analog_feedback.asc
-Start Time: Wed Jun 12 14:54:45 2024
+Start Time: Thu Jun 20 08:34:08 2024
 solver = Normal
 Maximum thread count: 12
 tnom = 27
@@ -65,13 +65,6 @@ Heightened Def Con from 0.000672279 to 0.00067228
 Heightened Def Con from 0.000697684 to 0.000697684
 Heightened Def Con from 0.000707677 to 0.000707678
 Heightened Def Con from 0.000727667 to 0.000727668
-Heightened Def Con from 0.000737661 to 0.000737662
-Heightened Def Con from 0.000792339 to 0.00079234
-Heightened Def Con from 0.000807633 to 0.000807634
-Heightened Def Con from 0.000877612 to 0.000877613
-Heightened Def Con from 0.000887608 to 0.000887609
-Heightened Def Con from 0.000892369 to 0.00089237
-Heightened Def Con from 0.000912374 to 0.000912375
-Heightened Def Con from 0.00099239 to 0.000992391
-Total elapsed time: 0.892 seconds.
+Heightened Def Con from 0.000837623 to 0.000837624
+Total elapsed time: 0.842 seconds.
 
